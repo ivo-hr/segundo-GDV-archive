@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarGame",
+    "\\CarGame\\CarGameCode",
+    "\\CarGame\\CarGameCode\\Logic",
+    "\\CarGame\\CarGameCode\\Logic\\GameObjects",
+    "\\CarGame\\Debug"
+  ],
+  "SelectedNode": "\\CarGame\\CarGameCode\\Logic\\GameObjects\\GameObject.cpp",
+  "PreviewInSolutionExplorer": false
+}

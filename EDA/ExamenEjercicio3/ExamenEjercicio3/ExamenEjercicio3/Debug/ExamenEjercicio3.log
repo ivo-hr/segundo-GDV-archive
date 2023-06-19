@@ -1,0 +1,6 @@
+﻿  ejercicio2.cpp
+C:\Users\pauli\source\repos\ExamenEjercicio3\ExamenEjercicio3\ejercicio2.cpp(35,53): warning C4101: 'sumaAntIzq': variable local sin referencia
+C:\Users\pauli\source\repos\ExamenEjercicio3\ExamenEjercicio3\ejercicio2.cpp(68): message : Vea la referencia a la creación de una instancia de la función plantilla "void singularesRecursion<int>(const bintree<int> &,int &,int &,int &)" que se está compilando
+C:\Users\pauli\source\repos\ExamenEjercicio3\ExamenEjercicio3\ejercicio2.cpp(81): message : Vea la referencia a la creación de una instancia de la función plantilla "int singulares<int>(const bintree<int> &)" que se está compilando
+C:\Users\pauli\source\repos\ExamenEjercicio3\ExamenEjercicio3\ejercicio2.cpp(35,41): warning C4101: 'sumaAntDer': variable local sin referencia
+  ExamenEjercicio3.vcxproj -> C:\Users\pauli\source\repos\ExamenEjercicio3\Debug\ExamenEjercicio3.exe

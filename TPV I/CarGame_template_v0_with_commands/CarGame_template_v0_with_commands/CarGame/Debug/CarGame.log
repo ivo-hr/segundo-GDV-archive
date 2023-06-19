@@ -1,0 +1,11 @@
+﻿  QuitCommand.cpp
+  ViewController.cpp
+  Game.cpp
+  Car.cpp
+D:\Docs\0Uni\2o\TPV I\CarGame_template_v0_with_commands\CarGame_template_v0_with_commands\CarGame\CarGameCode\Logic\GameObjects\Car.cpp(24,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Texture.cpp
+  MoveCommand.cpp
+  Generating Code...
+  LINK : D:\Docs\0Uni\2o\TPV I\CarGame_template_v0_with_commands\CarGame_template_v0_with_commands\bin\CarGamePr1Debug.exe not found or not built by the last incremental link; performing full link
+  CarGame.vcxproj -> D:\Docs\0Uni\2o\TPV I\CarGame_template_v0_with_commands\CarGame_template_v0_with_commands\bin\CarGamePr1Debug.exe

@@ -1,0 +1,42 @@
+﻿  Bullet.cpp
+D:\Docs\0Uni\2o\TPV I\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(42,30): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,30): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+Debug\DebugCommand.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\GameObjectContainer.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\GameObjectGenerator.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\GameObject.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\GoodObject.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\BadObject.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Rock.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Coin.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\FinLine.obj : warning LNK4042: object specified more than once; extras ignored
+Bullet.obj : error LNK2019: unresolved external symbol "protected: void __thiscall GameObject::drawTexture(class Texture *)" (?drawTexture@GameObject@@IAEXPAVTexture@@@Z) referenced in function "public: virtual void __thiscall Bullet::draw(void)" (?draw@Bullet@@UAEXXZ)
+Car.obj : error LNK2001: unresolved external symbol "protected: void __thiscall GameObject::drawTexture(class Texture *)" (?drawTexture@GameObject@@IAEXPAVTexture@@@Z)
+Money.obj : error LNK2001: unresolved external symbol "protected: void __thiscall GameObject::drawTexture(class Texture *)" (?drawTexture@GameObject@@IAEXPAVTexture@@@Z)
+Bullet.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall GameObject::drawDebug(void)" (?drawDebug@GameObject@@UAEXXZ)
+Car.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall GameObject::drawDebug(void)" (?drawDebug@GameObject@@UAEXXZ)
+Money.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall GameObject::drawDebug(void)" (?drawDebug@GameObject@@UAEXXZ)
+Bullet.obj : error LNK2001: unresolved external symbol "public: virtual struct SDL_Rect __thiscall GameObject::getCollider(void)" (?getCollider@GameObject@@UAE?AUSDL_Rect@@XZ)
+Car.obj : error LNK2001: unresolved external symbol "public: virtual struct SDL_Rect __thiscall GameObject::getCollider(void)" (?getCollider@GameObject@@UAE?AUSDL_Rect@@XZ)
+Money.obj : error LNK2001: unresolved external symbol "public: virtual struct SDL_Rect __thiscall GameObject::getCollider(void)" (?getCollider@GameObject@@UAE?AUSDL_Rect@@XZ)
+Bullet.obj : error LNK2001: unresolved external symbol "public: virtual struct SDL_Rect __thiscall GameObject::getCenter(void)" (?getCenter@GameObject@@UAE?AUSDL_Rect@@XZ)
+Car.obj : error LNK2001: unresolved external symbol "public: virtual struct SDL_Rect __thiscall GameObject::getCenter(void)" (?getCenter@GameObject@@UAE?AUSDL_Rect@@XZ)
+Money.obj : error LNK2001: unresolved external symbol "public: virtual struct SDL_Rect __thiscall GameObject::getCenter(void)" (?getCenter@GameObject@@UAE?AUSDL_Rect@@XZ)
+Game.obj : error LNK2019: unresolved external symbol "public: void __thiscall GameObject::setPosition(double,double)" (?setPosition@GameObject@@QAEXNN@Z) referenced in function "public: void __thiscall Game::startGame(void)" (?startGame@Game@@QAEXXZ)
+GameObjectGenerator.obj : error LNK2001: unresolved external symbol "public: void __thiscall GameObject::setPosition(double,double)" (?setPosition@GameObject@@QAEXNN@Z)
+Car.obj : error LNK2001: unresolved external symbol "public: void __thiscall GameObject::setPosition(double,double)" (?setPosition@GameObject@@QAEXNN@Z)
+Game.obj : error LNK2019: unresolved external symbol "public: __thiscall Rock::Rock(class Game *)" (??0Rock@@QAE@PAVGame@@@Z) referenced in function "public: static void __cdecl GameObjectGenerator::generate(class Game *,int,int,int)" (?generate@GameObjectGenerator@@SAXPAVGame@@HHH@Z)
+Game.obj : error LNK2019: unresolved external symbol "public: __thiscall Coin::Coin(class Game *)" (??0Coin@@QAE@PAVGame@@@Z) referenced in function "public: static void __cdecl GameObjectGenerator::generate(class Game *,int,int,int)" (?generate@GameObjectGenerator@@SAXPAVGame@@HHH@Z)
+Game.obj : error LNK2019: unresolved external symbol "public: __thiscall FinLine::FinLine(class Game *)" (??0FinLine@@QAE@PAVGame@@@Z) referenced in function "public: void __thiscall Game::startGame(void)" (?startGame@Game@@QAEXXZ)
+Money.obj : error LNK2001: unresolved external symbol "public: virtual bool __thiscall GoodObject::toDelete(void)" (?toDelete@GoodObject@@UAE_NXZ)
+Money.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall GoodObject::onEnter(void)" (?onEnter@GoodObject@@UAEXXZ)
+Money.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall GoodObject::onDelete(void)" (?onDelete@GoodObject@@UAEXXZ)
+D:\Docs\0Uni\2o\TPV I\TPV\CarGame_template_v0\bin\CarGamePr1Debug.exe : fatal error LNK1120: 11 unresolved externals

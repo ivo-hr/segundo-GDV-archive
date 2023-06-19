@@ -1,0 +1,4 @@
+Enrique Juan Gamboa; Javier Villegas
+
+En cuanto a problemas durante la ejecución, es posible que algunas rocas se superpongan entre si, y no hemos conseguido averiguar como arreglar los leaks de memoria.
+

@@ -1,0 +1,51 @@
+﻿  ViewController.cpp
+C:\Users\Javier\Desktop\MasMierdas\UniTwT\Uni\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\Javier\Desktop\MasMierdas\UniTwT\Uni\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  MoveCommand.cpp
+C:\Users\Javier\Desktop\MasMierdas\UniTwT\Uni\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\Javier\Desktop\MasMierdas\UniTwT\Uni\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  Main.cpp
+C:\Users\Javier\Desktop\MasMierdas\UniTwT\Uni\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\Javier\Desktop\MasMierdas\UniTwT\Uni\TPV\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+  FinLine.h
+  Generando código...
+Debug\GameObjectContainer.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+Debug\GameObjectGenerator.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+Debug\GameObject.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+Debug\BadObject.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+Debug\Rock.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+Debug\FinLine.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+Game.obj : error LNK2019: símbolo externo "public: void __thiscall GameObjectContainer::draw(void)" (?draw@GameObjectContainer@@QAEXXZ) sin resolver al que se hace referencia en la función "public: void __thiscall Game::draw(void)" (?draw@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo "public: void __thiscall GameObjectContainer::removeDead(void)" (?removeDead@GameObjectContainer@@QAEXXZ) sin resolver al que se hace referencia en la función "public: void __thiscall Game::DeleteRock(void)" (?DeleteRock@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo "public: class std::vector<class Collider *,class std::allocator<class Collider *> > __thiscall GameObjectContainer::getCollisions(class GameObject *)" (?getCollisions@GameObjectContainer@@QAE?AV?$vector@PAVCollider@@V?$allocator@PAVCollider@@@std@@@std@@PAVGameObject@@@Z) sin resolver al que se hace referencia en la función "public: class std::vector<class Collider *,class std::allocator<class Collider *> > __thiscall Game::GetCollisions(class GameObject *)" (?GetCollisions@Game@@QAE?AV?$vector@PAVCollider@@V?$allocator@PAVCollider@@@std@@@std@@PAVGameObject@@@Z)
+Game.obj : error LNK2019: símbolo externo "public: __thiscall FinLine::FinLine(class Game *)" (??0FinLine@@QAE@PAVGame@@@Z) sin resolver al que se hace referencia en la función "public: void __thiscall Game::startGame(void)" (?startGame@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo "public: void __thiscall FinLine::draw(void)" (?draw@FinLine@@QAEXXZ) sin resolver al que se hace referencia en la función "public: void __thiscall Game::draw(void)" (?draw@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo "public: void __thiscall FinLine::setDimension(int,int)" (?setDimension@FinLine@@QAEXHH@Z) sin resolver al que se hace referencia en la función "public: void __thiscall Game::startGame(void)" (?startGame@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo "public: void __thiscall FinLine::setPosition(double,double)" (?setPosition@FinLine@@QAEXNN@Z) sin resolver al que se hace referencia en la función "public: void __thiscall Game::startGame(void)" (?startGame@Game@@QAEXXZ)
+Game.obj : error LNK2019: símbolo externo "public: struct SDL_Rect __thiscall FinLine::getCollider(void)" (?getCollider@FinLine@@QAE?AUSDL_Rect@@XZ) sin resolver al que se hace referencia en la función "public: bool __thiscall Game::GameEnd(void)" (?GameEnd@Game@@QAE_NXZ)
+GameObjectGenerator.obj : error LNK2019: símbolo externo "public: void __thiscall GameObjectContainer::add(class GameObject *)" (?add@GameObjectContainer@@QAEXPAVGameObject@@@Z) sin resolver al que se hace referencia en la función "private: static void __cdecl GameObjectGenerator::addInRandomPosition(class Game *,class GameObject *)" (?addInRandomPosition@GameObjectGenerator@@CAXPAVGame@@PAVGameObject@@@Z)
+C:\Users\Javier\Desktop\MasMierdas\UniTwT\Uni\TPV\CarGame_template_v0\bin\CarGamePr1Debug.exe : fatal error LNK1120: 9 externos sin resolver

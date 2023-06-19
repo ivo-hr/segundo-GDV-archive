@@ -1,0 +1,200 @@
+﻿  ViewController.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Control\CommandFactory.h(10,7): error C2143: syntax error: missing ';' before '<class-head>'
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Control\CommandFactory.h(10,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  QuitCommand.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  MoveCommand.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Control\Commands\MoveCommand.cpp(5,1): error C2144: syntax error: 'void' should be preceded by ';'
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Control\Commands\MoveCommand.cpp(5,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Game.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\Game.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameObjectContainer.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  GameObjectGenerator.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  GameObject.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.cpp(33,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.cpp(34,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BadObject.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Car.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Rock.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  FinLine.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Texture.cpp
+  Main.cpp
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Control\CommandFactory.h(10,7): error C2143: syntax error: missing ';' before '<class-head>'
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Control\CommandFactory.h(10,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  GameObjectContainer.h
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  GameObjectGenerator.h
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  GameObject.h
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  BadObject.h
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Collider.h
+  Rock.h
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(43,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\Docs\0Uni\2o\TPV I\hhhhhhi\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(44,32): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  FinLine.h
+  Generating Code...
